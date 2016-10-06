@@ -1,5 +1,7 @@
 ---
 permalink: /education/
+title: Education
+layout: page
 ---
 
 Education resources

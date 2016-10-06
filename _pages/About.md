@@ -1,20 +1,22 @@
 ---
 permalink: /about/
+title: About TrEnCh
+layout: page
 ---
 TEAM
 ----
 
-**[Lauren Buckley](http://faculty.washington.edu/lbuckley/), PI**-
+**[Lauren Buckley](http://faculty.washington.edu/lbuckley/), PI**
 
-**[Aji John](http://www.ajijohn.com/), Lead developer and research scientist**-
+**[Aji John](http://www.ajijohn.com/), Lead developer and research scientist**
 
-**[Tony Cannistra](http://anthonycannistra.com/), Graduate student**- 
+**[Tony Cannistra](http://anthonycannistra.com/), Graduate student** 
 
-**[Ofir Levy](http://www.biophysical-ecology.com/), Consultant**-
+**[Ofir Levy](http://www.biophysical-ecology.com/), Consultant**
 
-**Amanda Tan, Postdoc**-
+**Amanda Tan, Postdoc**
 
-**Damir Zhaksilikov, Undergraduate**-
+**Damir Zhaksilikov, Undergraduate**
 
 GUIDANCE
 --------
@@ -30,6 +32,8 @@ TrEnCh benefits from the input of individuals including:
 
 Related initiatives
 -------------------
-[National Phenology Network](https://www.usanpn.org/)
+[National Phenology Network](https://www.usanpn.org/) 
+
 [PEcAn Project](http://pecanproject.github.io/)
+
 [Map of Life](https://www.mol.org/)

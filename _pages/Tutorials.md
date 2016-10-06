@@ -1,8 +1,8 @@
 ---
 permalink: /tutorials/
+layout: page
+title: Tutorials
 ---
 
-Tutorials
---------------------------------
 
 Coming soon.

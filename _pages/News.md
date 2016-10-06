@@ -1,7 +1,6 @@
 ---
+title: News
 permalink: /news/
+layout: page
 ---
-News
---------------------------------
-
-[BLOG]
+Coming soon.
