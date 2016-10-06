@@ -1,2 +1,5 @@
+include:
+  - "_pages"
+
 sass:
   sass_dir: assets/scss
