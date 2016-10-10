@@ -5,25 +5,25 @@
 @import "l-blogindex";
 
 .headline {
-	height: 400px;
+	height: 200px;
 	background: $header-bg;
 
 	@media screen and (max-width: $break-small){
-		height: 320px;
+		height: 120px;
 	}
 	@media screen and (min-width: $break-large){
-		height: 400px;
+		height: 250px;
 
 	}
 
 	h1 {
 		@media screen and (max-width: $break-small){
-		  padding-top: 3rem;
-		  font-size: 2rem;
+		  padding-top: .4rem;
+		  font-size: 1.6rem;
 		}
 		@media screen and (min-width: $break-large){
-		  font-size: 4rem;
-		  padding-top: 5rem;
+		  font-size: 4vw;
+		  padding-top: 2rem;
 		}
 		
 		font-size: 4em;
@@ -50,8 +50,14 @@
 }
 
 .post_date{
-	padding: 0.5rem;
 	text-align: center;
+	@media screen and (max-width: $break-small){
+		font-size: 1.2vw;
+
+	}
+	@media screen and (max-width: $break-large){
+		font-size: 1rem;
+	}
 }
 
 .post_descr {

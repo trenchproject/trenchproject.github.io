@@ -1,0 +1,14 @@
+- name: Tutorials
+  url: /tutorials/
+
+- name: News
+  url: /news/
+
+- name: Education
+  url: /education/
+
+- name: Documentation
+  url: /docs/
+
+- name: About TrEnCh
+  url: /about/
