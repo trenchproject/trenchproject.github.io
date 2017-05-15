@@ -247,3 +247,21 @@ defaults:
       header:
           overlay_image: /assets/images/ashcroft.jpg
           excerpt: true
+  - scope: 
+      path: ""
+      type: tools
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      header:
+          overlay_image: /assets/images/ashcroft.jpg
+          excerpt: true
+
+collections:
+  tools:
+    output: true
+

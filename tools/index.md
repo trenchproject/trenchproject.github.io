@@ -1,5 +1,5 @@
 ---
-permalink: /tools/
+permalink: /tools
 title: "Trench Tools"
 author_profile: true
 layout: archive
