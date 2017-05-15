@@ -1,5 +1,5 @@
 ---
-title: Visualizing thermal stress
-excerpt: Interactive website to visualize thermal stress.
+title: microclimRApi - R API toolkit for http://microclim.org
+excerpt: R API toolkit for http://microclim.org.
 ---
-Interactive website(http://biophys.microclim.org) to visualize thermal stress.
+microclimRApi - R API gives you the ability to interact with microclim.org via their REST APIs. This API toolkit implements all the APIs provided by MCLIM. It is designed to be a convenience package shielding the user from the API internals.
