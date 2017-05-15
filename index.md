@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: "The Trench Project"
 header:
-   overlay_image: assets/images/ashcroft.jpg
+   overlay_image: assets/images/buckskin.jpg
    caption: "Photo Credit: [**Tony Cannistra**](http://www.anthonycannistra.com)"
    cta_label: "Jump to Tools."
    cta_url: /tools

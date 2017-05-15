@@ -14,7 +14,7 @@ description              : "Translating Environmental Change into Organismal Res
 url                      : "https://trenchproject.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : trenchproject # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/ashcroft.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/buckskin.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -245,7 +245,7 @@ defaults:
       share: true
       related: true
       header:
-          overlay_image: /assets/images/ashcroft.jpg
+          overlay_image: /assets/images/buckskin.jpg
           excerpt: true
   - scope: 
       path: ""
@@ -258,7 +258,7 @@ defaults:
       share: true
       related: true
       header:
-          overlay_image: /assets/images/ashcroft.jpg
+          overlay_image: /assets/images/buckskin.jpg
           excerpt: true
 
 collections:
