@@ -16,13 +16,12 @@ header:
 
 **[Ofir Levy](http://www.biophysical-ecology.com/), Consultant**
 
-**Amanda Tan, Postdoc**
 
-**Damir Zhaksilikov, Undergraduate**
 
 ## Guidance Team
 
 TrEnCh benefits from the input of individuals including:
+
 **[Ray Huey](http://faculty.washington.edu/hueyrb/), U Washington**- Connoisser of all things thermal.
 
 **[Michael Kearney](https://camelunimelb.wordpress.com/), U Melbourne**- Creator of [NicheMapR](https://github.com/mrke/NicheMapR) in collaboration with [Warren Porter](http://zoology.wisc.edu/faculty/por/por.html).
