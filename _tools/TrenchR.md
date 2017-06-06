@@ -1,5 +1,5 @@
 ---
-title: TrenchR: an R package for microclimate and biophysical models
+title: TrenchR- an R package for microclimate and biophysical models
 excerpt: Functions for assessing the impact of the environment of organisms.
 tags:
   - Biophysical models
