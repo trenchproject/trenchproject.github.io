@@ -4,7 +4,7 @@ main:
     url: /people
   - title: "Tools"
     url: /tools
-  - title: "Examples"
-    url: "/examples"
+  - title: "Resources"
+    url: "/resources"
   - title: "News"
     url: /news

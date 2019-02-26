@@ -1,6 +1,6 @@
 ---
-permalink: /examples
-title: "Examples"
+permalink: /resources
+title: "Resources"
 author_profile: true
 layout: single
 header:
