@@ -1,5 +1,5 @@
 ---
-permalink: /software
+permalink: /examples
 title: "Examples"
 author_profile: true
 layout: single
