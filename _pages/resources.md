@@ -22,8 +22,6 @@ From a review [paper](https://royalsocietypublishing.org/doi/10.1098/rstb.2016.0
 From a perspective [paper](https://academic.oup.com/icb/article/58/1/38/4986977) on leveraging organismal biology to forecast the effects of climate change
 [GitHub Repository](https://github.com/lbuckley/ClimateBiology)
 
-**Quantitative genetic model of response to thermal extremes**
-
 **Model of butterfly responses to climate change**- Integrates microclimate, developmental, biophysical, demographic, and evolutionary models
 
 Quantitative genetic model: [GitHub Repository](https://github.com/lbuckley/ColiasEvolution) Simpler but less documented than below.
