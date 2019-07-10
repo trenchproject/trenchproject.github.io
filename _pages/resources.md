@@ -8,7 +8,7 @@ header:
 ---
 
 ## Education and outreach resources
-We aim to broadly disseminate our research to enhance understanding of the ecological and evolutionary impacts of climate change to students and the public. We are building interactive R Shiny applications and associated tutorials to allow students and others interested to explore the ecological and evolutionary impacts of climate change through interacting with data. See our education and outreach [website](http://faculty.washington.edu/lbuckley/?page_id=522) (to be updated).
+We aim to broadly disseminate our research to enhance understanding of the ecological and evolutionary impacts of climate change to students and the public. We are building interactive R Shiny applications and associated tutorials to allow students and others interested to explore the ecological and evolutionary impacts of climate change through interacting with data. See our [TrEnCh-ed website](https://trench-ed.github.io/).
 
 ## Project-specific quantitative tools
 We publish code associated with particular publications or applications in GitHub or Dryad respositories. Resources include the following:
