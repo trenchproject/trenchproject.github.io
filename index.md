@@ -25,6 +25,10 @@ Many efforts to forecast ecological responses to climate change are based on air
 
 ***Translating microclimate into animal body temperatures***- We aim to develop transparent and accessible energy budget models to translate microclimate into estimates of animal body temperature.  We estimate body temperatures by balancing energy inputs and outputs associated with solar and thermal radiation, conduction (via contact with surfaces), and convection (via air flow).  Our models will be accessible via both an online interface and a [TrenchR R package](https://github.com/trenchproject/TrenchR). We are developing our tools in collaboration with the [NicheMapR](https://twitter.com/nichemapr) initiative.
 
+***Education and outreach***- We have created the [TrEnCh-ed](https://trench-ed.github.io/) website including interactive R Shiny applications and associated tutorials to allow students and others interested to explore the ecological and evolutionary impacts of climate change through interacting with data.
+
+We are working on tutorials on biophysical ecology associated with our TrenchR package.
+
 ***Mapping body temperatures and regions of thermal stress***- We are developing a mapping interface to integrate the output of the biophysical models with data on species distributions and regions where animal species are likely to experience thermal stress.  The interface will enable users to explore example species or choose the size, shape, and coloration of a generic ectotherm to model. Check out an initial mapping prototype [here](http://biophys.microclim.org/).
 
 ***Case studies of how animals are impacted by climate and climate change***- We are developing case studies, informed by our empirical research, illustrating how climate change is impacting animals.
