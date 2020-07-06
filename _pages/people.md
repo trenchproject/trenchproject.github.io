@@ -24,7 +24,7 @@ header:
 **[Aji John](http://www.ajijohn.com/), Research scientist**- Lead developer of microclim.org. Contributed to TrenchR and visualizations.
 
 ## Contributors
-We appreciate code and other input from Bryan Helmuth and Eric Riddell.
+We appreciate code and other input from Bryan Helmuth and Eric Riddell. Mike Kearney contributed tutorials, guidance, and we're collaborating on visualizations.
 
 ## Guidance Team
 
@@ -37,6 +37,7 @@ TrEnCh benefits from the guidance of individuals including:
 **[Joel Kingsolver](http://jgking.web.unc.edu/), U North Carolina**- Expert on biophysical modeling and collaborator on butterfly and grasshopper ecological and evolutionary forecasting projects.
 
 ## Related Links 
+[NicheMapR](https://github.com/mrke/NicheMapR)
 
 [National Phenology Network](https://www.usanpn.org/) 
 
