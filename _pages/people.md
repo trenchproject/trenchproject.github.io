@@ -6,29 +6,35 @@ layout: single
 header: 
     overlay_image: assets/images/ashcroft.jpg
 ---
-## Development Team
+## Current Development Team
 
 **[Lauren Buckley](http://faculty.washington.edu/lbuckley/), PI**
 
-**[Aji John](http://www.ajijohn.com/), Lead developer and research scientist**
+**[Tony Cannistra](http://anthonycannistra.com/), Graduate student**- Website creator and assisted with many aspects of the Trench project.
 
-**[Tony Cannistra](http://anthonycannistra.com/), Graduate student** 
+**Issac Caruso, Undergraduate researcher**- Lead developer of phenology visualization.
 
-**[Ofir Levy](http://www.biophysical-ecology.com/), Consultant**
+**[Ofir Levy](http://www.biophysical-ecology.com/), Consultant**- Contributed to TrenchR.
 
+**Yutaro Sakairi, Undergraduate researcher and research scientist**- Contributed to TrenchR, TrenchR tutorials, and visualizations.
 
+## Past Developers
+**Bryan Briones Ortiz, Undergraduate researcher and research scientist**- Contributed to TrenchR, TrenchR tutorials, and visualizations.
+
+**[Aji John](http://www.ajijohn.com/), Research scientist**- Lead developer of microclim.org. Contributed to TrenchR and visualizations.
+
+## Contributors
+We appreciate code and other input from Bryan Helmuth and Eric Riddell.
 
 ## Guidance Team
 
-TrEnCh benefits from the input of individuals including:
+TrEnCh benefits from the guidance of individuals including:
 
 **[Ray Huey](http://faculty.washington.edu/hueyrb/), U Washington**- Connoisser of all things thermal.
 
 **[Michael Kearney](https://camelunimelb.wordpress.com/), U Melbourne**- Creator of [NicheMapR](https://github.com/mrke/NicheMapR) in collaboration with [Warren Porter](http://zoology.wisc.edu/faculty/por/por.html).
 
 **[Joel Kingsolver](http://jgking.web.unc.edu/), U North Carolina**- Expert on biophysical modeling and collaborator on butterfly and grasshopper ecological and evolutionary forecasting projects.
-
-**[David Wethey](http://www.biol.sc.edu/faculty/wethey), U South Carolina**- Creator of intertidal [ecological forecasting tools](http://tbone.biol.sc.edu/forecasting_test/).  David developed the work flow for realtime processing of satellite data that we are adopting.
 
 ## Related Links 
 
