@@ -8,7 +8,7 @@ header:
    cta_label: "Jump to Tools."
    cta_url: /tools
 ---
-#THIS IS AN ARCHIVE SITE. PLEASE VISIT OUR [CURRENT SITE](http://www.trenchproject.com)
+# THIS IS AN ARCHIVED SITE. PLEASE VISIT OUR [CURRENT SITE](http://www.trenchproject.com)
 
 **TrEnCh:** Tools for TRanslating ENvironmental CHange into organismal responses.
 
