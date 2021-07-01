@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "The Trench Project"
+title                    : "TrEnCh Project Notebook"
 title_separator          : "-"
 name                     : ""
 description              : "Translating Environmental Change into Organismal Responses."
@@ -82,7 +82,7 @@ author:
   bio              : "Translating Environmental Change into Organismal Responses."
   location         : "University of Washington"
   email            :
-  uri              :
+  uri              : www.trenchproject.com
   bitbucket        :
   codepen          :
   dribbble         :
@@ -92,7 +92,7 @@ author:
   github           : trenchproject
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : trenchproject
   lastfm           :
   linkedin         :
   pinterest        :
