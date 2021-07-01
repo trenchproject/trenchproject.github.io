@@ -1,10 +1,4 @@
 # main links
 main:
-  - title: "People"
-    url: /people
-  - title: "Tools"
-    url: /tools
-  - title: "Resources"
-    url: "/resources"
-  - title: "News"
-    url: /news
+  - title: "Updatyes"
+    url: /updates
